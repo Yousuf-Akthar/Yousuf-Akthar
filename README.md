@@ -2,7 +2,7 @@
 
 ## 🚀 Quick Intro
 
-• An Aspiring Software Developer.
+• An Aspiring Software Developer, surviving on tea and semicolons.
 
 • I enjoy turning ideas into real-world applications through code.
 
