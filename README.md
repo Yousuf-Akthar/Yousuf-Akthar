@@ -1,6 +1,6 @@
 ## HI THERE 👋
 
-I'm Yousuf Akthar — a passionate Full Stack Developer in the making. I love building web applications, learning new technologies, and exploring the world of Java, Spring Boot, and SQL.
+Hi! I'm Yousuf Akthar. I enjoy turning ideas into real-world applications through code.
 
 <br>
 
