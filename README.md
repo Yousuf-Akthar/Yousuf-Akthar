@@ -1,8 +1,10 @@
-## HI THERE 👋
+## HI THERE 👋 I'm Yousuf Akthar 
 
 ## 🚀 Quick Intro
 
-I'm Yousuf Akthar. I enjoy turning ideas into real-world applications through code.
+• An Aspiring Software Developer.
+
+• I enjoy turning ideas into real-world applications through code.
 
 ---
 
