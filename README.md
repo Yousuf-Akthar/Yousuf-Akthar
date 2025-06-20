@@ -1,5 +1,7 @@
 ## HI THERE 👋
 
+## 🚀 Quick Intro
+
 I'm Yousuf Akthar. I enjoy turning ideas into real-world applications through code.
 
 ---
